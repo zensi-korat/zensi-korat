@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @zensi-korat
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning how to create interactive and responsive designs
+
 
 
 
